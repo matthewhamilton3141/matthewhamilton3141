@@ -11,9 +11,9 @@
 
 I build developer tools, terminal software, and real-time AI systems that are useful first and polished second.
 
-Incoming Systems Design Engineering at the University of Waterloo
+Incoming Systems Design Engineering @ University of Waterloo
 
-Originally from toronto, seeking spring '27 internship opportunities. I enjoy exploring nature, video games, and trying new things.
+Originally from Toronto, seeking spring '27 internship opportunities. I enjoy exploring nature, video games, and trying new things.
 
 Most of my recent work lives in three projects:
 
@@ -27,7 +27,7 @@ I care about fast interaction, low-friction workflows, and systems that stay saf
 - GitHub: [Retermina](https://github.com/matthewhamilton3141/Retermina)
 - GitHub: [iris-nl](https://github.com/matthewhamilton3141/iris-nl)
 
-If you want to talk about anything reach me here:
+If you want to talk about anything, reach me here:
 
 - LinkedIn: [matthewhamilton3141](https://www.linkedin.com/in/matthewhamilton3141/)
 - Email: [matthewhamilton3141@gmail.com](mailto:matthewhamilton3141@gmail.com)
