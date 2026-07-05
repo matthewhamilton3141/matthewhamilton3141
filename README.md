@@ -13,7 +13,7 @@ I build developer tools, terminal software, and real-time AI systems that are us
 
 Incoming Systems Design Engineering @ University of Waterloo
 
-Originally from Toronto, seeking spring '27 internship opportunities. I enjoy exploring nature, video games, and trying new things.
+Originally from Toronto, seeking spring (May - August) '27 internship opportunities. I enjoy exploring nature, video games, and trying new things.
 
 Most of my recent work lives in three projects:
 
