@@ -17,15 +17,11 @@ Originally from Toronto, seeking spring (May - August) '27 internship opportunit
 
 Most of my recent work lives in three projects:
 
-- `Retermina` - a Tauri + React terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
-- `iris-nl` - a natural-language shell command engine with NVIDIA NIM, Ollama, and offline/mock providers, plus a local safety layer before anything runs
-- `gsplat-rt` - a real-time pipeline that turns live video into 3D Gaussian splats and OpenUSD scenes for NVIDIA Isaac Sim and Omniverse
+- [`Retermina`](https://github.com/matthewhamilton3141/Retermina) - a Tauri + React terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
+- [`iris-nl`](https://github.com/matthewhamilton3141/iris-nl) - a natural-language shell command engine with NVIDIA NIM, Ollama, and offline/mock providers, plus a local safety layer before anything runs
+- [`gsplat-rt`](https://github.com/matthewhamilton3141/gsplat-rt) - a real-time pipeline that turns live video into 3D Gaussian splats and OpenUSD scenes for NVIDIA Isaac Sim and Omniverse
 
 I care about fast interaction, low-friction workflows, and systems that stay safe without getting in the way.
-
-- GitHub: [gsplat-rt](https://github.com/matthewhamilton3141/gsplat-rt)
-- GitHub: [Retermina](https://github.com/matthewhamilton3141/Retermina)
-- GitHub: [iris-nl](https://github.com/matthewhamilton3141/iris-nl)
 
 If you want to talk about anything, reach me here:
 
@@ -36,9 +32,9 @@ If you want to talk about anything, reach me here:
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & Tooling**
 
