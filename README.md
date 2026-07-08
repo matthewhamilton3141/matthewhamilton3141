@@ -17,8 +17,8 @@ Originally from Toronto, seeking Summer '27 internship opportunities. I enjoy ex
 
 Most of my recent work lives in three projects:
 
-- [`Retermina`](https://github.com/matthewhamilton3141/Retermina) - a Tauri + React terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
 - [`gsplat-rt`](https://github.com/matthewhamilton3141/gsplat-rt) - a real-time pipeline that turns live video into 3D Gaussian splats and OpenUSD scenes for NVIDIA Isaac Sim and Omniverse
+- [`Retermina`](https://github.com/matthewhamilton3141/Retermina) - a Tauri + React terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
 - [`iris-nl`](https://github.com/matthewhamilton3141/iris-nl) - a natural-language shell command engine with NVIDIA NIM, Ollama, and offline/mock providers, plus a local safety layer before anything runs
 
 I care about fast interaction, low-friction workflows, and systems that stay safe without getting in the way.
