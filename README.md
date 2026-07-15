@@ -9,7 +9,7 @@
 
 # Hey, I'm Matthew Hamilton
 
-I build developer tools, terminal software, and real-time AI systems that are useful first and polished second.
+I build developer tools, terminal software, and real-time AI systems that I find cool and useful.
 
 Incoming Systems Design Engineering @ University of Waterloo
 
