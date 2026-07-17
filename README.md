@@ -23,7 +23,8 @@ If you want to talk about anything, reach me here:
 ## Pinned projects:
 
 - [`gsplat-rt`](https://github.com/matthewhamilton3141/gsplat-rt) - a real-time pipeline that turns live video into 3D Gaussian splats and OpenUSD scenes for NVIDIA Isaac Sim and Omniverse
-- [`Retermina`](https://github.com/matthewhamilton3141/Retermina) - a Tauri + React terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
+- [`Retermina`](https://github.com/matthewhamilton3141/Retermina) - a terminal workspace with native PTY sessions, modular panels, a customizable theme system, and an `Iris` command bar for contextual actions
+- [`Sketchstack`](https://github.com/matthewhamilton3141/sketchstack) - Sketch systems, flows, schemas, and plans on a canvas; export a clean prompt for your AI agent.
 
 I care about fast interaction, low-friction workflows, and systems that stay safe without getting in the way.
 
