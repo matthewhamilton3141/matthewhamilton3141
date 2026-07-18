@@ -7,7 +7,7 @@
   <rect x="0.5" y="0.5" rx="6" width="494" height="194" fill="#0D1117"/>
   <line x1="165" y1="45" x2="165" y2="150" stroke="#21262D" stroke-width="1"/>
   <line x1="330" y1="45" x2="330" y2="150" stroke="#21262D" stroke-width="1"/>
-  <text class="num" x="82.5" y="98">561</text>
+  <text class="num" x="82.5" y="98">562</text>
   <text class="label" x="82.5" y="128">Total Contributions</text>
   <circle cx="247.5" cy="88" r="40" fill="none" stroke="#76B900" stroke-width="4"/>
   <text class="num" x="247.5" y="98">11</text>
