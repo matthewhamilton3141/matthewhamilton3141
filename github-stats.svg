@@ -1,0 +1,17 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats">
+  <style>
+    .num { font: 700 30px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #76B900; }
+    text { text-anchor: middle; }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="194" fill="#0D1117"/>
+  <line x1="165" y1="45" x2="165" y2="150" stroke="#21262D" stroke-width="1"/>
+  <line x1="330" y1="45" x2="330" y2="150" stroke="#21262D" stroke-width="1"/>
+  <text class="num" x="82.5" y="98">—</text>
+  <text class="label" x="82.5" y="128">Total Contributions</text>
+  <circle cx="247.5" cy="88" r="40" fill="none" stroke="#76B900" stroke-width="4"/>
+  <text class="num" x="247.5" y="98">—</text>
+  <text class="label" x="247.5" y="150">Current Streak</text>
+  <text class="num" x="412.5" y="98">—</text>
+  <text class="label" x="412.5" y="128">Most Commits in a Day</text>
+</svg>
