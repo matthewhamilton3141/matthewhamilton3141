@@ -56,3 +56,18 @@ I care about fast interaction, low-friction workflows, and systems that stay saf
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Streak
+
+<table>
+  <tr>
+    <td align="center" width="34%">
+      <img src="./mega-rayquaza-shiny.gif" width="200" alt="Shiny Mega Rayquaza" />
+    </td>
+    <td width="66%">
+      <a href="https://github.com/matthewhamilton3141">
+        <img alt="Matthew Hamilton GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewhamilton3141&theme=dark&hide_border=true&background=0D1117&stroke=76B900&ring=76B900&fire=0D1117&currStreakLabel=76B900&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+      </a>
+    </td>
+  </tr>
+</table>
