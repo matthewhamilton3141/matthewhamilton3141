@@ -7,11 +7,13 @@
   </a>
 </p>
 
-<img align="right" width="190" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
-
 # Hey, I'm Matthew Hamilton
 
 I build developer tools, terminal software, and real-time AI systems that I find cool and useful.
+
+<p align="center">
+  <img width="200" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
+</p>
 
 Incoming Systems Design Engineering @ University of Waterloo
 
@@ -58,9 +60,3 @@ I care about fast interaction, low-friction workflows, and systems that stay saf
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Contribution Snake
-
-<picture>
-  <img alt="Gold snake weaving through my last two months of contributions" src="./github-snake.svg" />
-</picture>
