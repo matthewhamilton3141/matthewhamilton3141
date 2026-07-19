@@ -71,3 +71,9 @@ I care about fast interaction, low-friction workflows, and systems that stay saf
     </td>
   </tr>
 </table>
+
+## Contribution Snake
+
+<picture>
+  <img alt="Gold snake weaving through my last two months of contributions" src="./github-snake.svg" />
+</picture>
