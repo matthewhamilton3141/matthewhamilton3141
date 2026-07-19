@@ -7,13 +7,11 @@
   </a>
 </p>
 
+<img align="right" width="200" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
+
 # Hey, I'm Matthew Hamilton
 
 I build developer tools, terminal software, and real-time AI systems that I find cool and useful.
-
-<p align="center">
-  <img width="200" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
-</p>
 
 Incoming Systems Design Engineering @ University of Waterloo
 
