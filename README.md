@@ -7,11 +7,9 @@
   </a>
 </p>
 
-<table>
-<tr>
-<td valign="top">
-
 # Hey, I'm Matthew Hamilton
+
+<img align="right" width="200" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
 
 I build developer tools, terminal software, and real-time AI systems that I find cool and useful.
 
@@ -23,13 +21,6 @@ If you want to talk about anything, reach me here:
 
 - LinkedIn: [matthewhamilton3141](https://www.linkedin.com/in/matthewhamilton3141/)
 - Email: [matthewhamilton3141@gmail.com](mailto:matthewhamilton3141@gmail.com)
-
-</td>
-<td valign="top" width="240">
-<img src="./mega-rayquaza-shiny.gif" width="220" alt="Shiny Mega Rayquaza" />
-</td>
-</tr>
-</table>
 
 ## Pinned projects:
 
