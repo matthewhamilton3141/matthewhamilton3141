@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img align="right" width="190" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
+
 # Hey, I'm Matthew Hamilton
 
 I build developer tools, terminal software, and real-time AI systems that I find cool and useful.
@@ -56,21 +58,6 @@ I care about fast interaction, low-friction workflows, and systems that stay saf
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Stats
-
-<table>
-  <tr>
-    <td align="center" width="34%">
-      <img src="./mega-rayquaza-shiny.gif" width="200" alt="Shiny Mega Rayquaza" />
-    </td>
-    <td width="66%">
-      <a href="https://github.com/matthewhamilton3141">
-        <img alt="Matthew Hamilton GitHub stats" src="./github-stats.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## Contribution Snake
 
