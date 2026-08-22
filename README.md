@@ -1,5 +1,3 @@
-<img align="right" width="200" src="./mega-rayquaza-shiny.gif" alt="Shiny Mega Rayquaza" />
-
 # Hey, I'm Matthew Hamilton
 
 Studying Systems Design Engineering at the <mark>University of Waterloo</mark>, seeking Summer '27 internships.
