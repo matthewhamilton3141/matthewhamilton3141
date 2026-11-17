@@ -1,4 +1,4 @@
-# Hey, I'm Matthew Hamilton
+hi im matthew hamilton
 
 systems design engineering @ uwaterloo
 seeking summer '27 internships.
