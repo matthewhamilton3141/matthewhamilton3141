@@ -1,7 +1,10 @@
-hi im matthew hamilton
+i'm matthew hamilton<br>
+studying systems design engineering @ uwaterloo<br>
+looking for summer 2027 internships<br>
+making machines see faster, in stealth
 
-systems design engineering @ uwaterloo
-seeking summer '27 internships.
+learn more about me here:
 
-learn more about me here: 
-[portfolio](https://matthewhamilton.dev) · [x](https://www.x.com/mhamilton3141/) · [linkedin](https://www.linkedin.com/in/matthewhamilton3141/)
+[![portfolio](./badges/portfolio.svg)](https://matthewhamilton.dev)
+[![x](./badges/x.svg)](https://x.com/mhamilton3141)
+[![linkedin](./badges/linkedin.svg)](https://www.linkedin.com/in/matthewhamilton3141/)
